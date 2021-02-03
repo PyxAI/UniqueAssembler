@@ -1,0 +1,6 @@
+Starting first scan for file mock
+Starting second scan for file mock
+Freed 8 words of memory from symbol table
+Freed 9 words of memory from data table
+Freed 32 words of memory from instruction table
+Found a total of 0 errors in mock.asm

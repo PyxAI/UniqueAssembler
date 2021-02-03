@@ -1,0 +1,7 @@
+Starting first scan for file badmock
+Starting second scan for file badmock
+Error in line: 1 - Got too many oprands or extra comma
+Freed 1 words of memory from symbol table
+Freed 1 words of memory from data table
+Freed 1 words of memory from instruction table
+Found a total of 1 errors in badmock.asm

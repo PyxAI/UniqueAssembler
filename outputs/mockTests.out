@@ -1,0 +1,72 @@
+Starting first scan for file mockTests
+.extern statements should not start with a label, ignoring..
+
+Assigned label cannot contain special character!
+Error in line: 11 - Not a valid symbol: reason above.
+
+length of symbol longlabellonglabellonglabellonglabellonglabellonglabellonglabel is too big
+Error in line: 12 - longlabellonglabellonglabellonglabellonglabellonglabellonglabel is not a valid symbol
+
+Symbol already exist!
+Error in line: 14 - Main is not a valid symbol
+
+Assigned label cannot be opcode or register type or instraction word!
+Error in line: 17 - string is not a valid symbol
+
+Assigned label cannot be opcode or register type or instraction word!
+Error in line: 18 - r1 is not a valid symbol
+Error in line: 24 - Commas must come between the integers
+Error in line: 24 - Commas must come between the integers
+Error in line: 24 - Commas must come between the integers
+
+Symbol already exist!
+Error in line: 25 - TESTS is not a valid symbol
+Error in line: 25 - Commas must come between the integers
+Error in line: 25 - Commas must come between the integers
+Error in line: 26 - Commas must come between the integers
+Error in line: 28 - Not enough operands for instruction add
+Error in line: 32 - Invalid string (not starting with " )
+
+Symbol already exist!
+Error in line: 37 - toomany is not a valid symbol
+
+Symbol cannot start with a digit!
+Error in line: 38 - 14badlabel is not a valid symbol
+
+Assigned label cannot be opcode or register type or instraction word!
+Error in line: 41 - jmp is not a valid symbol
+
+Symbol already exist!
+Error in line: 43 - Main is not a valid symbol
+Starting second scan for file mockTests
+Error in line: 2 - this opcode "just" is not valid 
+Error in line: 4 - Did not find a comma between two operands.
+Error in line: 5 - Symbol '4' not found in internal or external lists!
+Error in line: 7 - Command 'jsr' does not take more then one argument.
+Got: r3 as a second argument
+Error in line: 8 - Symbol 'NUM' not found in internal or external lists!
+Error in line: 9 - this opcode "illegal" is not valid 
+Error in line: 10 - this opcode "illegal" is not valid 
+Error in line: 12 - Did not find a comma between two operands.
+Error in line: 16 - Oprand type is not valid for this opcode: lea 
+Error in line: 17 - Symbol '5' not found in internal or external lists!
+Error in line: 19 - Command 'stop' does not take any arguments
+Error in line: 20 - Command 'rts' does not take any arguments
+Error in line: 21 - Command 'rts' does not take any arguments
+Error in line: 22 - this opcode "EMPTY:" is not valid 
+Error in line: 27 - this opcode ".DATA" is not valid 
+Error in line: 28 - Did not find a comma between two operands.
+Error in line: 29 - Oprand type is not valid for this opcode: sub 
+Error in line: 30 - Got too many oprands or extra comma
+Error in line: 34 - Symbol 'r11' not found in internal or external lists!
+Error in line: 36 - Got too many oprands or extra comma
+Error in line: 37 - Got too many oprands or extra comma
+Error in line: 38 - Symbol '4' not found in internal or external lists!
+Error in line: 39 - this opcode "label2:" is not valid 
+Error in line: 40 - Command 'jmp' does not take more then one argument.
+Got: , as a second argument
+Error in line: 42 - Symbol '15' not found in internal or external lists!
+Freed 11 words of memory from symbol table
+Freed 39 words of memory from data table
+Freed 29 words of memory from instruction table
+Found a total of 43 errors in mockTests.asm
