@@ -1,4 +1,4 @@
-A project for school, where I built an Assembler from scratch.
+A university project, where I built an Assembler from scratch.
 
 The assembler would take as input a text file which lists commands similar to assembly leanguage.
 
